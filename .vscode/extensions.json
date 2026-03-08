@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-vscode.live-server",
+    "ecmel.vscode-html-css",
+    "formulahendry.auto-rename-tag"
+  ]
+}
